@@ -1,0 +1,11 @@
+Starting training of experiement 'new_test', starting from epoch 0, and going for 10, finishing at 10 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 1/10, Training Loss: 263173.8492, Validation Loss: 1791.4334 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 2/10, Training Loss: 2193.2557, Validation Loss: 1785.0009 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 3/10, Training Loss: 2180.5562, Validation Loss: 1771.2773 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 4/10, Training Loss: 2161.8653, Validation Loss: 1754.4116 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 5/10, Training Loss: 2139.9620, Validation Loss: 1735.7225 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 6/10, Training Loss: 2115.9973, Validation Loss: 1715.7992 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 7/10, Training Loss: 2090.3864, Validation Loss: 1694.7493 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 8/10, Training Loss: 2063.5548, Validation Loss: 1672.9267 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 9/10, Training Loss: 2035.7665, Validation Loss: 1650.2803 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
+Epoch 10/10, Training Loss: 2007.0143, Validation Loss: 1627.0902 ../debuggingnotes/new_test/new_test_logs_epoch_10.log
